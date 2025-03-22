@@ -22,7 +22,7 @@ class Parrot(Bird):
                print("Liger is flying using", wings,"wings.")
 
         def copyVoice(self):
-               phrase = input("THe parrot will copy-")
+               phrase = input("The parrot will copy-")
                print("Parrot said '"+phrase+"'")
 
 
